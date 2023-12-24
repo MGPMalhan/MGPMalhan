@@ -1,7 +1,7 @@
 
 <h1 align="center">Welcome 👋, I'm Pamuditha Maharambage</h1>
 <h3 align="center">A passionate Software Engineer in Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="+ 94 72 080 6890.png">
+<img align="right" alt="Coding" width="400" src="+ [94 72 080 6890.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw1u39HXKAmVXrgWNyk6yYYA&ust=1703507914908000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLjry9KLqIMDFQAAAAAdAAAAABAE)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mgpmalhan&label=Profile%20views&color=0e75b6&style=flat" alt="mgpmalhan" /> </p>
 
