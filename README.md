@@ -9,7 +9,7 @@
 </div></ins>  
   
 
--  A passionate S.E undergraduate in Sri Lanka 🧑🏻‍💻
+-  A passionate S.E undergraduate at Plymouth University.🧑🏻‍💻
   
   
 
