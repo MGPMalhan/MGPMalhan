@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" align="center" style="width: 100%" />
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" align="center" style="width:100% " />
 </div>  
   
 
@@ -100,9 +100,10 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MGPMalhan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
+![Stats](https://github-readme-stats-sigma-five.vercel.app//api?username=MGPMalhan&show_icons=true&theme=tokyonight)
+![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=MGPMalhan&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app//api/top-langs/?username=MGPMalhan&layout=compact&langs_count=8&theme=tokyonight)
 
 
 ## Recent Blog Posts  
