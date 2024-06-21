@@ -106,15 +106,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app//api/top-langs/?username=MGPMalhan&layout=compact&langs_count=8&theme=tokyonight)
 
 
-## Recent Blog Posts  
+
 
  
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=085my81z9xku7c8zwtoma6aj0&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" /></div>  
-
-<br/>  
+  
   
 [![](https://visitcount.itsvg.in/api?id=MGPMalhan&icon=0&color=0)](https://visitcount.itsvg.in)
   
