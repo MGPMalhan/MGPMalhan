@@ -100,10 +100,17 @@
 
 
 ## Github Stats  
+<div style="margin-bottom: 20px;">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MGPMalhan&show_icons=true&theme=tokyonight" alt="Stats">
+</div>
 
-![Stats](https://github-readme-stats-sigma-five.vercel.app//api?username=MGPMalhan&show_icons=true&theme=tokyonight)
-![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=MGPMalhan&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app//api/top-langs/?username=MGPMalhan&layout=compact&langs_count=8&theme=tokyonight)
+<div style="margin-bottom: 20px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MGPMalhan&show_icons=true&theme=tokyonight" alt="Total Contributions">
+</div>
+
+<div style="margin-bottom: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MGPMalhan&layout=compact&langs_count=8&theme=tokyonight" alt="Top Langs">
+</div>
 
 
 
